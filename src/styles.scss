@@ -2,3 +2,7 @@
 a {
     text-decoration: none;
 }
+
+.content-height {
+    min-height: calc(100vh - 65px);
+}
